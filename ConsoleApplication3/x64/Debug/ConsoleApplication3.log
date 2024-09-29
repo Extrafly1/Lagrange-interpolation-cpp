@@ -1,0 +1,9 @@
+﻿  ConsoleApplication3.cpp
+C:\abc\кубгу\2 курс\algorithm\интерполяция лагранжа\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(97,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\abc\кубгу\2 курс\algorithm\интерполяция лагранжа\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(151,70): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\abc\кубгу\2 курс\algorithm\интерполяция лагранжа\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(151,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\abc\кубгу\2 курс\algorithm\интерполяция лагранжа\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(165,72): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\abc\кубгу\2 курс\algorithm\интерполяция лагранжа\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(165,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\abc\кубгу\2 курс\algorithm\интерполяция лагранжа\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(179,72): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\abc\кубгу\2 курс\algorithm\интерполяция лагранжа\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(179,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\abc\кубгу\2 курс\algorithm\интерполяция лагранжа\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
